@@ -16,6 +16,7 @@ wget -O yolov5s-640-640-rk3588.rknn https://github.com/airockchip/rknn-toolkit2/
 wget https://github.com/airockchip/rknn-toolkit2/raw/v1.6.0/rknpu2/examples/rknn_yolov5_demo/model/bus.jpg
 wget https://github.com/airockchip/rknn-toolkit2/raw/v1.6.0/rknpu2/examples/rknn_yolov5_demo/model/coco_80_labels_list.txt
 
-
+# yolov8 model was download as onnx and convert to rknn on my workstation
+# onnx source https://ftrg.zbox.filez.com/v2/delivery/data/95f00b0fc900458ba134f8b180b3f7a1/examples/yolov8/yolov8s.onnx
 
 
