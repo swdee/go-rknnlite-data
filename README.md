@@ -1,5 +1,5 @@
 
-# Example Data Files
+# go-rknnlite Example Data Files
 
-Use the `download.sh` script to download the data files (models and images)
-needed to run the example code.
+This git repository holds the data files used to run the examples for 
+[go-rknnlite](https://github.com/swdee/go-rknnlite)
