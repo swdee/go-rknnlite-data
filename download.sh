@@ -21,3 +21,11 @@ wget https://github.com/airockchip/rknn-toolkit2/raw/v1.6.0/rknpu2/examples/rknn
 
 # lprnet model was download as onnx and converted to rknn on my workstation
 # onnx source https://ftrg.zbox.filez.com/v2/delivery/data/95f00b0fc900458ba134f8b180b3f7a1/examples/LPRNet/lprnet.onnx
+
+# ppocr-rec model was download as onnx and converted to rknn on my workstations
+# onnx source https://ftrg.zbox.filez.com/v2/delivery/data/95f00b0fc900458ba134f8b180b3f7a1/examples/PPOCR/ppocrv4_rec.onnx
+wget https://raw.githubusercontent.com/airockchip/rknn_model_zoo/main/examples/PPOCR/PPOCR-Rec/model/ppocr_keys_v1.txt
+
+# ppocr-det model was download as onnx and converted to rknn on my workstations
+# onnx source https://ftrg.zbox.filez.com/v2/delivery/data/95f00b0fc900458ba134f8b180b3f7a1/examples/PPOCR/ppocrv4_det.onnx
+wget -O ppocr-det-test.png https://raw.githubusercontent.com/airockchip/rknn_model_zoo/main/examples/PPOCR/PPOCR-Det/model/test.jpg
