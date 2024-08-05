@@ -29,3 +29,6 @@ wget https://raw.githubusercontent.com/airockchip/rknn_model_zoo/main/examples/P
 # ppocr-det model was download as onnx and converted to rknn on my workstations
 # onnx source https://ftrg.zbox.filez.com/v2/delivery/data/95f00b0fc900458ba134f8b180b3f7a1/examples/PPOCR/ppocrv4_det.onnx
 wget -O ppocr-det-test.png https://raw.githubusercontent.com/airockchip/rknn_model_zoo/main/examples/PPOCR/PPOCR-Det/model/test.jpg
+
+# get video for object tracking demo
+wget https://raw.githubusercontent.com/ifzhang/ByteTrack/main/videos/palace.mp4
